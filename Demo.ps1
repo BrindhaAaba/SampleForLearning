@@ -1,1 +1,2 @@
-Console.WriteLine("Hello World")
+console.writeline("Hello World fro folderq")
+console.writeline("new")
